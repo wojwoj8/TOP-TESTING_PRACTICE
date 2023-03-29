@@ -1,0 +1,26 @@
+{
+  "name": "top-testing_practice",
+  "version": "1.0.0",
+  "description": "TOP testing practice with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojwoj8/TOP-TESTING_PRACTICE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojwoj8/TOP-TESTING_PRACTICE/issues"
+  },
+  "homepage": "https://github.com/wojwoj8/TOP-TESTING_PRACTICE#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.5.0",
+    "lodash": "^4.17.21"
+  }
+}
